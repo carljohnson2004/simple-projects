@@ -1,3 +1,4 @@
+
 import random
 
 def magic_8_ball():
